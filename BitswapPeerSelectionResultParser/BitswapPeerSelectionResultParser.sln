@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitswapPeerSelectionResultParser", "BitswapPeerSelectionResultParser\BitswapPeerSelectionResultParser.csproj", "{B725968C-AA97-4AFE-AFE9-865338146479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B725968C-AA97-4AFE-AFE9-865338146479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B725968C-AA97-4AFE-AFE9-865338146479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B725968C-AA97-4AFE-AFE9-865338146479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B725968C-AA97-4AFE-AFE9-865338146479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F6FB7B-D91D-4A72-9FB5-CF2762C3B6FE}
+	EndGlobalSection
+EndGlobal
